@@ -27,3 +27,5 @@ This is a sample repository created for demonstration purposes.
  • Create a remote repository on GitHub - Create Account on Github and Create Repository
  
  • Push changes to GitHub - push -u
+
+ 
